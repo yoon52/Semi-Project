@@ -10,6 +10,7 @@ SINU EDUCATION<br>
 
 [view 구현 예시]
 ![KakaoTalk_20241224_003154018](https://github.com/user-attachments/assets/498c639e-16fa-4cf9-8ac3-cab5a66f3bea)
+<br>
 
 [컬러]<br>
 <img width="704" alt="KakaoTalk_20241224_091416524" src="https://github.com/user-attachments/assets/b789d86f-10ba-47e7-bf45-e5712b659f46" />
