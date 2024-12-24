@@ -8,7 +8,7 @@ SINU EDUCATION<br>
 <br>
 요구사항 정의서(요약) : https://docs.google.com/spreadsheets/d/147WjfOWef2_o3XEG2xKvcAu19u_1TWi5jS9nv38thGU/edit?gid=0#gid=0
 
-[view 구현 예시]
+[view 구현 예시]<br>
 ![KakaoTalk_20241224_003154018](https://github.com/user-attachments/assets/498c639e-16fa-4cf9-8ac3-cab5a66f3bea)
 <br>
 
