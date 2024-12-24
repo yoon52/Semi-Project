@@ -7,3 +7,5 @@ SINU EDUCATION<br>
 요구사항 정의서(자세히) :  https://docs.google.com/spreadsheets/d/1cZ7AnA-uaONy6PmpEWr23GFB9wlkVajTbF9nvUxFcKs/edit?gid=0#gid=0
 <br>
 요구사항 정의서(요약) : https://docs.google.com/spreadsheets/d/147WjfOWef2_o3XEG2xKvcAu19u_1TWi5jS9nv38thGU/edit?gid=0#gid=0
+
+![KakaoTalk_20241224_003154018](https://github.com/user-attachments/assets/498c639e-16fa-4cf9-8ac3-cab5a66f3bea)
