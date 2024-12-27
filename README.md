@@ -8,7 +8,7 @@ SINU EDUCATION<br>
 <br>
 요구사항 정의서(요약) : https://docs.google.com/spreadsheets/d/147WjfOWef2_o3XEG2xKvcAu19u_1TWi5jS9nv38thGU/edit?gid=0#gid=0
 
-<h3> 현재 해야될 파트 <h3>
+<h3>현재 해야될 일</h3>
 <a>문성종 : 탑바, 사이드바 ,메인페이지 <br></a>
 <a>이창 : 회원가입, 아이디 찾기, 비밀번호 찾기, 마이페이지 </a><br>
 <a>권태혁 : 강의 게시판 페이지(카테고리, 강의게시판 목록, 강의 수정 페이지) </a><br>
