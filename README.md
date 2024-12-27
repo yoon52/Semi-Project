@@ -22,4 +22,3 @@ SINU EDUCATION<br>
 [컬러]<br>
 <img width="704" alt="KakaoTalk_20241224_091416524" src="https://github.com/user-attachments/assets/b789d86f-10ba-47e7-bf45-e5712b659f46" />
 
-<
