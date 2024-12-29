@@ -14,7 +14,7 @@ SINU EDUCATION<br>
 <a>권태혁 : 강의 게시판 페이지(카테고리, 강의게시판 목록, 강의 수정 페이지) </a><br>
 <a>조민주 : 질문게시판(카테고리, 작성페이지, 수정페이지) </a><br>
 <a>이상윤 : 회원관리 페이지, 강의 추가 페이지 </a><br>
-<h1>각자 view 구현해야됨!</h1
+<h1>각자 view 구현해야됨!</h1>
 
 <h3>[컬러]</h3>
 <img width="704" alt="KakaoTalk_20241224_091416524" src="https://github.com/user-attachments/assets/b789d86f-10ba-47e7-bf45-e5712b659f46" />
