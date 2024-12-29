@@ -5,9 +5,9 @@ SINU EDUCATION<br>
 디스코드 서버 : https://discord.gg/4Ap3vV7z <br>
 
 요구사항 정의서(자세히) :  https://docs.google.com/spreadsheets/d/1cZ7AnA-uaONy6PmpEWr23GFB9wlkVajTbF9nvUxFcKs/edit?gid=0#gid=0
-<br>
+<br><br>
 요구사항 정의서(요약) : https://docs.google.com/spreadsheets/d/147WjfOWef2_o3XEG2xKvcAu19u_1TWi5jS9nv38thGU/edit?gid=0#gid=0
-<br>
+<br><br>
 스토리보드 : https://docs.google.com/spreadsheets/d/1PKM2LZvoxpxz0yrGDRvB0tje1XFkgFDtjGWUlNVznAY/edit?gid=0#gid=0
 
 <h3>[현재 해야될 일]</h3>
