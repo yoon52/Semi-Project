@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body{
+            background-color: #F9FBFF;
+        }
+
+        .top-box{
+            background-color: #FFFFDA;
+            width: 600px;
+            height: 150px;
+            margin-left: 10px;
+            padding: 30px;
+            border-top-left-radius: 25px;
+            border-top-right-radius: 25px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .bottom-box{
+            background-color: #ffffff;
+            width: 600px;
+            margin-left: 10px;
+            padding: 30px;
+            border-bottom-left-radius: 25px;
+            border-bottom-right-radius: 25px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .lecture-list {
+            margin-top: 20px;
+        }
+
+        .lecture-item {
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-bottom: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .lecture-item h3 {
+            font-size: 16px;
+            color: #333;
+        }
+
+        .lecture-item button {
+            background-color: transparent;
+            border: none;
+            cursor: pointer;
+        }
+
+        .lecture-item button img {
+            width: 20px;
+            height: 20px;
+        }
+
+        .lecture-item:hover {
+            background-color: #f8f8f8;
+        }
+
+        .image-box{
+            background-image: url("example.png");
+            width: 300px;
+            height: 150px;
+            border-radius: 5px;
+            background-size: cover;
+            float:left;
+            margin-right: 20px;
+        }
+        
+        .text-box>a:first-child{
+            font-size:20px;
+            font-weight: bold;
+        }
+
+        .text-box>a:nth-child(3){
+            color: #757575;
+        }
+
+        .text-box>p{
+            font-size: 12px;
+        }
+
+    </style>
+</head>
+<body>
+    <section>
+        <div class="top-box">
+            <div class="image-box"></div>
+            <div class="text-box">
+                <a>프로그래밍 기초</a><br>
+                <a>객체 지향 프로그래밍</a><br>
+                <p>Java는 객체 지향 프로그래밍(OOP) 언어로, 전 세계적으로 널리 사용 되는 강력하고 안정적인 언어입니다. 특히 크로스 플랫폼 애플리케이션을 개발하는 데 탁월한 특징을 가지고 있습니다.</p>
+            </div>
+        </div>
+        <div class="bottom-box">
+                <div class="lecture-list">
+                    <div class="lecture-item">
+                        <h3>1. 프로그래밍 기초</h3>
+                        <button><img src="bookmark-icon.png"/></button>
+                    </div>
+                    <div class="lecture-item">
+                        <h3>2. 변수</h3>
+                        <button><img src="bookmark-icon.png"/></button>
+                    </div>
+                    <div class="lecture-item">
+                        <h3>3. 연산자</h3>
+                        <button><img src="bookmark-icon.png"/></button>
+                    </div>
+                    <div class="lecture-item">
+                        <h3>4. 제어문</h3>
+                        <button><img src="bookmark-icon.png"/></button>
+                    </div>
+                    <div class="lecture-item">
+                        <h3>5. 배열</h3>
+                        <button><img src="bookmark-icon.png"/></button>
+                    </div>
+                    <div class="lecture-item">
+                        <h3>6. 객체</h3>
+                        <button><img src="bookmark-icon.png"/></button>
+                    </div>
+                    <div class="lecture-item">
+                        <h3>7. 객체 배열</h3>
+                        <button><img src="bookmark-icon.png"/></button>
+                    </div>
+                    <div class="lecture-item">
+                        <h3>8. 다형성</h3>
+                        <button><img src="bookmark-icon.png"/></button>
+                    </div>
+                </div>  
+            </table>
+        </div>
+    </section>
+</body>
+</html>
